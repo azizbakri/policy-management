@@ -1,0 +1,15 @@
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\dto\InsuredPersonDto.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\repository\PolicyRepository.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\PolicyApplication.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\service\PolicyService.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\InsuredPerson.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\exception\PolicyNotFoundException.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\exception\InsuredPersonNotFoundException.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\dto\PolicyDto.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\repository\InsuredPersonRepository.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\controller\PolicyController.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\service\InsuredPersonService.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\Policy.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\exception\InsuredPersonAlreadyAssignedAcception.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\controller\InsuredPersonController.java
+C:\Users\azizb\Downloads\policy\policy\src\main\java\com\management\policy\model\dto\PlainPolicyDto.java

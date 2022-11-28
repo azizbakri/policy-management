@@ -1,0 +1,11 @@
+com\management\policy\model\exception\InsuredPersonAlreadyAssignedAcception.class
+com\management\policy\model\dto\PlainPolicyDto.class
+com\management\policy\model\exception\InsuredPersonNotFoundException.class
+com\management\policy\model\InsuredPerson.class
+com\management\policy\model\dto\PolicyDto.class
+com\management\policy\controller\InsuredPersonController.class
+com\management\policy\service\InsuredPersonService.class
+com\management\policy\controller\PolicyController.class
+com\management\policy\model\Policy.class
+com\management\policy\model\exception\PolicyNotFoundException.class
+com\management\policy\model\dto\InsuredPersonDto.class
